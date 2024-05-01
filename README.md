@@ -1,4 +1,4 @@
-# Mall-Customer-Data-Clustering
+# Mall-Customer-Data-Clustering--ML Project
 
 This project aims to perform customer segmentation analysis for a mall dataset using machine learning techniques in Python. The dataset includes information about customers such as age, gender, average income, and spending score.
 
